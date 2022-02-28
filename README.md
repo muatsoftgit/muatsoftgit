@@ -6,7 +6,6 @@ Software engineer at Tecla 21 - https://github.com/Tecla21 - https://tecla21.ao
 <div>
         <a href="https://github.com/muatsoftgit"></a>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=muatsoftgit&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-        <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaldogaston&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <div style="display: inline-block;"> <br>
