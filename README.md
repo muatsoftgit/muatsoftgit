@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Adário Muatelembe
   
-Software engineer at Tecla 21 - https://github.com/Tecla21 - https://tecla21.ao
+Software engineer at <strong>Tecla 21</strong><br>https://github.com/Tecla21 - https://tecla21.ao
 
 <div>
         <a href="https://github.com/muatsoftgit"></a>
