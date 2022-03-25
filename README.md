@@ -9,7 +9,6 @@ Software engineer at Tecla 21 - https://github.com/Tecla21 - https://tecla21.ao
 </div>
 
 <div style="display: inline-block;"> <br>
-  
         <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
         <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
