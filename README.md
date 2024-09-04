@@ -29,8 +29,7 @@ Software engineer at <strong>Tecla 21</strong><br>https://github.com/Tecla21 - h
 - 📫 Social:<br>
 <div>
         <a target="_blank" href="https://twitter.com/muatsoft"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
-       <a target="_blank" href="https://www.instagram.com/muatelembe_jr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
-        <a target="_blank" href="https://www.linkedin.com/in/amuatelembe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
-  <a target="_blank" href="https://www.youtube.com/channel/UC0__WKloRNsMe9FTbOyORow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Youtube"></a>
+        <a target="_blank" href="https://www.linkedin.com/in/kathambwe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
+  <a target="_blank" href="https://www.youtube.com/@tecla_21"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Youtube"></a>
                  
 </div>
