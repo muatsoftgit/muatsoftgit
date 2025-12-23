@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Adário Muatelembe
-https://perfil.ao/cv/muatsoft<br>
 Software engineer at <strong>Tecla 21</strong><br>https://github.com/Tecla21 - https://tecla21.ao
 
 <!--<div>
